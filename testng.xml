@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+   <listener class-name="com.qa.Utility.Liseners">
+  </listener>
+  </listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.Tests.Test1">
+        <methods>         
+          <include name="change_Language"/>
+          <include name="verify_Links_Are_Not_Broken_On_HomePage"/>
+          <include name="verify_Links_Are_Not_Broken_On_Third_Page"/>
+          <include name="change_Theme"/>
+          <include name="click_on_Web_Sotries"/>
+           <include name="capture_The_Text_From_each_WebStory"/>
+          <include name="click_on_next_WebStory_and_Return_on_HomePage"/>
+       
+        </methods>
+      </class> <!-- com.qa.Tests1.Test1 -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

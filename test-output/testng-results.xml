@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T17:39:11 IST" name="Suite" finished-at="2022-07-06T17:42:04 IST" duration-ms="173354">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T17:39:11 IST" name="Test" finished-at="2022-07-06T17:42:04 IST" duration-ms="173354">
+      <class name="com.qa.Tests.Test1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:39:11 IST" name="setUp" finished-at="2022-07-06T17:39:21 IST" duration-ms="10441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="change_Language()[pri:1, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:39:21 IST" name="change_Language" finished-at="2022-07-06T17:39:28 IST" duration-ms="7140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_Language -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:39:28 IST" name="close" finished-at="2022-07-06T17:39:32 IST" duration-ms="3567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:39:32 IST" name="setUp" finished-at="2022-07-06T17:40:03 IST" duration-ms="31470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Links_Are_Not_Broken_On_HomePage()[pri:2, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:03 IST" name="verify_Links_Are_Not_Broken_On_HomePage" finished-at="2022-07-06T17:40:31 IST" duration-ms="27876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Links_Are_Not_Broken_On_HomePage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:31 IST" name="close" finished-at="2022-07-06T17:40:35 IST" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:35 IST" name="setUp" finished-at="2022-07-06T17:40:45 IST" duration-ms="9565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_Links_Are_Not_Broken_On_Third_Page()[pri:3, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:45 IST" name="verify_Links_Are_Not_Broken_On_Third_Page" finished-at="2022-07-06T17:40:54 IST" duration-ms="9260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Links_Are_Not_Broken_On_Third_Page -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:54 IST" name="close" finished-at="2022-07-06T17:40:58 IST" duration-ms="4607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:40:58 IST" name="setUp" finished-at="2022-07-06T17:41:09 IST" duration-ms="10956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="change_Theme()[pri:4, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:09 IST" name="change_Theme" finished-at="2022-07-06T17:41:10 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_Theme -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:10 IST" name="close" finished-at="2022-07-06T17:41:14 IST" duration-ms="3736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:14 IST" name="setUp" finished-at="2022-07-06T17:41:23 IST" duration-ms="9636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="click_on_Web_Sotries()[pri:5, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:23 IST" name="click_on_Web_Sotries" finished-at="2022-07-06T17:41:30 IST" duration-ms="6910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_Web_Sotries -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:30 IST" name="close" finished-at="2022-07-06T17:41:34 IST" duration-ms="3698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:34 IST" name="setUp" finished-at="2022-07-06T17:41:39 IST" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="capture_The_Text_From_each_WebStory()[pri:6, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:39 IST" name="capture_The_Text_From_each_WebStory" finished-at="2022-07-06T17:41:43 IST" duration-ms="4342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture_The_Text_From_each_WebStory -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:43 IST" name="close" finished-at="2022-07-06T17:41:47 IST" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:47 IST" name="setUp" finished-at="2022-07-06T17:41:56 IST" duration-ms="9039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="click_on_next_WebStory_and_Return_on_HomePage()[pri:7, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:41:56 IST" name="click_on_next_WebStory_and_Return_on_HomePage" finished-at="2022-07-06T17:42:01 IST" duration-ms="4621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_next_WebStory_and_Return_on_HomePage -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.qa.Tests.Test1@67c33749]" started-at="2022-07-06T17:42:01 IST" name="close" finished-at="2022-07-06T17:42:04 IST" duration-ms="3605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.Tests.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
